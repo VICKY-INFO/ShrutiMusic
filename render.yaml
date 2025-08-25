@@ -6,15 +6,15 @@ services:
     startCommand: bash start
     envVars:
       - key: API_ID
-        value: "29448785"
+        value: ""
       - key: API_HASH
-        value: "599574f6aff0a09ebb76305b58e7e9c2"
+        value: ""
       - key: BOT_TOKEN
         value: ""
       - key: MONGO_DB_URI
-        value: "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION"
+        value: ""
       - key: OWNER_ID
-        value: "1786683163"
+        value: ""
       - key: OWNER_USERNAME
         value: ""
       - key: STRING_SESSION
@@ -26,10 +26,10 @@ services:
       - key: HEROKU_APP_NAME
         value: ""
       - key: LOG_GROUP_ID
-        value: "-1002321189618"
+        value: ""
       - key: SUPPORT_GROUP
-        value: "https://t.me/ShrutiBotsupport"
+        value: ""
       - key: SUPPORT_CHANNEL
-        value: "https://t.me/ShrutiBots"
+        value: ""
       - key: COOKIE_URL
-        value: "Need , IF You Didn't add Cookies file in cookies folder"
+        value: ""
