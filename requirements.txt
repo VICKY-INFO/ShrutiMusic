@@ -30,11 +30,12 @@ uvloop
 yt-dlp
 youtube-search
 youtube-search-python
-struct
+
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi , aka @NoxxOP
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
+
 
 
