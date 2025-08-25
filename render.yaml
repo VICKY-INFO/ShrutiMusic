@@ -10,7 +10,7 @@ services:
       - key: API_HASH
         value: "599574f6aff0a09ebb76305b58e7e9c2"
       - key: BOT_TOKEN
-        value: "5463791865:AAFmkdbzLhb80k-cHK9AjLTpgUbRpwX1e7w"
+        value: ""
       - key: MONGO_DB_URI
         value: "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION"
       - key: OWNER_ID
