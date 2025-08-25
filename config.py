@@ -23,7 +23,7 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #     ⚙️ CONFIGURATION FILE | Powered By @WTF_WhyMeeh & @ShrutiBots
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+import struct
 import os
 import re
 from dotenv import load_dotenv
